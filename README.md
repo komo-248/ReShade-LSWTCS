@@ -4,6 +4,13 @@ A ReShade post-processing configuration for *Lego Star Wars: The Complete Saga* 
 
 The goal is not to change the art style. TCS has a specific aesthetic — flat cel shading, saturated primaries, exaggerated proportions — and the pipeline is tuned to enhance it rather than override it. SSAO adds contact shadow depth to geometry that was designed without it. HDR expansion recovers highlight separation that the SDR framebuffer compresses. DAA cleans aliased edges without softening the linework that defines the look.
 
+<p align="center"><em>Before (left) &nbsp;|&nbsp; After (right)</em></p>
+
+<p align="center">
+  <img src="images/comparison1.png" width="440"/>
+  <img src="images/comparison2.png" width="440"/>
+</p>
+
 ---
 
 ## Table of Contents
@@ -16,7 +23,6 @@ The goal is not to change the art style. TCS has a specific aesthetic — flat c
   - [4. Glamarye Fast Effects](#4-glamarye-fast-effects)
   - [5. MXAO](#5-mxao)
 - [Installation](#installation)
-- [Demonstration](#demonstration)
 - [Credits](#credits)
 
 ---
@@ -164,17 +170,6 @@ The sample radius is kept small (0.5 primary, 0.2 secondary) to confine occlusio
    - [AdvancedAutoHDR](https://github.com/BarbatosBachiko/AdvancedAutoHDR-ReShade) — HDR
 3. Copy `LSWTCS.ini` into your ReShade presets folder
 4. Launch the game, open the ReShade overlay, and select the preset from the preset dropdown
-
----
-
-## Demonstration
-
-<p align="center"><em>Before (left) &nbsp;|&nbsp; After (right)</em></p>
-
-<p align="center">
-  <img src="images/comparison1.png" width="440"/>
-  <img src="images/comparison2.png" width="440"/>
-</p>
 
 ---
 
