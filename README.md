@@ -7,16 +7,16 @@ The goal is not to change the art style. TCS has a specific aesthetic — flat c
 <p align="center"><em>Before (left) &nbsp;|&nbsp; After (right)</em></p>
 
 <p align="center">
-  <img src="images/comparison1.png" width="440"/>
-  <img src="images/comparison2.png" width="440"/>
+  <img src="images/comparison1.png" width="400"/>
+  <img src="images/comparison2.png" width="400"/>
 </p>
 <p align="center">
-  <img src="images/comparison3.png" width="440"/>
-  <img src="images/comparison4.png" width="440"/>
+  <img src="images/comparison3.png" width="400"/>
+  <img src="images/comparison4.png" width="400"/>
 </p>
 <p align="center">
-  <img src="images/comparison5.png" width="440"/>
-  <img src="images/comparison6.png" width="440"/>
+  <img src="images/comparison5.png" width="400"/>
+  <img src="images/comparison6.png" width="400"/>
 </p>
 
 ---
